@@ -1,0 +1,25 @@
+C:\Users\thesi\Desktop\3 семестр\мое\c#\8\OOP_8\OOP_8\obj\Debug\netcoreapp3.0\OOP_8.csprojAssemblyReference.cache
+C:\Users\thesi\Desktop\3 семестр\мое\c#\8\OOP_8\OOP_8\obj\Debug\netcoreapp3.0\OOP_8.AssemblyInfoInputs.cache
+C:\Users\thesi\Desktop\3 семестр\мое\c#\8\OOP_8\OOP_8\obj\Debug\netcoreapp3.0\OOP_8.AssemblyInfo.cs
+C:\Users\thesi\Desktop\3 семестр\мое\c#\8\OOP_8\OOP_8\bin\Debug\netcoreapp3.0\OOP_8.exe
+C:\Users\thesi\Desktop\3 семестр\мое\c#\8\OOP_8\OOP_8\bin\Debug\netcoreapp3.0\OOP_8.deps.json
+C:\Users\thesi\Desktop\3 семестр\мое\c#\8\OOP_8\OOP_8\bin\Debug\netcoreapp3.0\OOP_8.runtimeconfig.json
+C:\Users\thesi\Desktop\3 семестр\мое\c#\8\OOP_8\OOP_8\bin\Debug\netcoreapp3.0\OOP_8.runtimeconfig.dev.json
+C:\Users\thesi\Desktop\3 семестр\мое\c#\8\OOP_8\OOP_8\bin\Debug\netcoreapp3.0\OOP_8.dll
+C:\Users\thesi\Desktop\3 семестр\мое\c#\8\OOP_8\OOP_8\bin\Debug\netcoreapp3.0\OOP_8.pdb
+C:\Users\thesi\Desktop\3 семестр\мое\c#\8\OOP_8\OOP_8\obj\Debug\netcoreapp3.0\OOP_8.dll
+C:\Users\thesi\Desktop\3 семестр\мое\c#\8\OOP_8\OOP_8\obj\Debug\netcoreapp3.0\OOP_8.pdb
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\8\OOP_8\OOP_8\bin\Debug\netcoreapp3.0\OOP_8.exe
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\8\OOP_8\OOP_8\bin\Debug\netcoreapp3.0\OOP_8.deps.json
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\8\OOP_8\OOP_8\bin\Debug\netcoreapp3.0\OOP_8.runtimeconfig.json
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\8\OOP_8\OOP_8\bin\Debug\netcoreapp3.0\OOP_8.runtimeconfig.dev.json
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\8\OOP_8\OOP_8\bin\Debug\netcoreapp3.0\OOP_8.dll
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\8\OOP_8\OOP_8\bin\Debug\netcoreapp3.0\OOP_8.pdb
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\8\OOP_8\OOP_8\obj\Debug\netcoreapp3.0\OOP_8.AssemblyInfoInputs.cache
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\8\OOP_8\OOP_8\obj\Debug\netcoreapp3.0\OOP_8.AssemblyInfo.cs
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\8\OOP_8\OOP_8\obj\Debug\netcoreapp3.0\OOP_8.dll
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\8\OOP_8\OOP_8\obj\Debug\netcoreapp3.0\OOP_8.pdb
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\8\OOP_8\OOP_8\obj\Debug\netcoreapp3.0\OOP_8.csproj.AssemblyReference.cache
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\8\OOP_8\OOP_8\obj\Debug\netcoreapp3.0\OOP_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\8\OOP_8\OOP_8\obj\Debug\netcoreapp3.0\OOP_8.csproj.CoreCompileInputs.cache
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\8\OOP_8\OOP_8\obj\Debug\netcoreapp3.0\OOP_8.genruntimeconfig.cache

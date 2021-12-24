@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zx9njELqkhtHyO7Ii4B4ns4mpPs4268uRcyF/ziVM73NMV1ojvct/Zj/Uy7yhHEoX3SI9+BAg0QYJ+JyImfCtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thesi\\Desktop\\БГТУ\\2 курс\\3 семестр\\c#\\лабораторные\\8\\OOP_8\\OOP_8\\OOP_8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thesi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\thesi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\thesi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\thesi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
