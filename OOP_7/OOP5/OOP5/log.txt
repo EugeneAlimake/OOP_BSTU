@@ -1,0 +1,170 @@
+ Ошибка: Недостаточно бюджета
+Ваш бюджет равен 9000. А цена снарядов 100000
+Вам не хватает 91000
+Метод:Void Add(OOP5.Snarads)
+Время:17.10.2021 23:14:20
+ИсточникOOP5
+Стек   at OOP5.Control.Add(Snarads obj) in C:\Users\thesi\Desktop\3 семестр\мое\c#\7\OOP5\OOP5\Class1.cs:line 192
+   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\3 семестр\мое\c#\7\OOP5\OOP5\Program.cs:line 59
+
+--------------------------------------
+ Ошибка: Ваше значение 1000,что больше 100
+Метод:Void set_Number(Int32)
+Время:17.10.2021 23:14:20
+ИсточникOOP5
+Стек   at OOP5.Snarads.set_Number(Int32 value) in C:\Users\thesi\Desktop\3 семестр\мое\c#\7\OOP5\OOP5\Class1.cs:line 247
+   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\3 семестр\мое\c#\7\OOP5\OOP5\Program.cs:line 82
+
+--------------------------------------
+ Ошибка: Attempted to divide by zero.
+Метод:Void Main(System.String[])
+Время:17.10.2021 23:14:20
+ИсточникOOP5
+Стек   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\3 семестр\мое\c#\7\OOP5\OOP5\Program.cs:line 102
+
+--------------------------------------
+ Ошибка: Недостаточно бюджета
+Ваш бюджет равен 9000. А цена снарядов 100000
+Вам не хватает 91000
+Метод:Void Add(OOP5.Snarads)
+Время:25.10.2021 18:37:39
+ИсточникOOP5
+Стек   at OOP5.Control.Add(Snarads obj) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Class1.cs:line 192
+   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Program.cs:line 59
+
+--------------------------------------
+ Ошибка: Ваше значение 1000,что больше 100
+Метод:Void set_Number(Int32)
+Время:25.10.2021 18:37:39
+ИсточникOOP5
+Стек   at OOP5.Snarads.set_Number(Int32 value) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Class1.cs:line 247
+   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Program.cs:line 82
+
+--------------------------------------
+ Ошибка: Attempted to divide by zero.
+Метод:Void Main(System.String[])
+Время:25.10.2021 18:37:39
+ИсточникOOP5
+Стек   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Program.cs:line 102
+
+--------------------------------------
+ Ошибка: Недостаточно бюджета
+Ваш бюджет равен 9000. А цена снарядов 100000
+Вам не хватает 91000
+Метод:Void Add(OOP5.Snarads)
+Время:26.10.2021 14:38:29
+ИсточникOOP5
+Стек   at OOP5.Control.Add(Snarads obj) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Class1.cs:line 192
+   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Program.cs:line 59
+
+--------------------------------------
+ Ошибка: Ваше значение 1000,что больше 100
+Метод:Void set_Number(Int32)
+Время:26.10.2021 14:38:30
+ИсточникOOP5
+Стек   at OOP5.Snarads.set_Number(Int32 value) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Class1.cs:line 247
+   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Program.cs:line 82
+
+--------------------------------------
+ Ошибка: Attempted to divide by zero.
+Метод:Void Main(System.String[])
+Время:26.10.2021 14:38:30
+ИсточникOOP5
+Стек   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Program.cs:line 102
+
+--------------------------------------
+ Ошибка: Недостаточно бюджета
+Ваш бюджет равен 9000. А цена снарядов 100000
+Вам не хватает 91000
+Метод:Void Add(OOP5.Snarads)
+Время:26.10.2021 14:38:58
+ИсточникOOP5
+Стек   at OOP5.Control.Add(Snarads obj) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Class1.cs:line 192
+   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Program.cs:line 59
+
+--------------------------------------
+ Ошибка: Ваше значение 10000,что больше 100
+Метод:Void set_Number(Int32)
+Время:26.10.2021 14:38:58
+ИсточникOOP5
+Стек   at OOP5.Snarads.set_Number(Int32 value) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Class1.cs:line 247
+   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Program.cs:line 82
+
+--------------------------------------
+ Ошибка: Attempted to divide by zero.
+Метод:Void Main(System.String[])
+Время:26.10.2021 14:38:58
+ИсточникOOP5
+Стек   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Program.cs:line 102
+
+--------------------------------------
+ Ошибка: Элемент не удален может быть удален, так как его не существует.
+Текущий размер списка 2 элементов
+Вы выбрали 4.
+Метод:Boolean Delete(Int32)
+Время:26.10.2021 14:40:50
+ИсточникOOP5
+Стек   at OOP5.Gym.Delete(Int32 index) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Class1.cs:line 110
+   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Program.cs:line 33
+
+--------------------------------------
+ Ошибка: Недостаточно бюджета
+Ваш бюджет равен 9000. А цена снарядов 100000
+Вам не хватает 91000
+Метод:Void Add(OOP5.Snarads)
+Время:26.10.2021 14:40:51
+ИсточникOOP5
+Стек   at OOP5.Control.Add(Snarads obj) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Class1.cs:line 192
+   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Program.cs:line 59
+
+--------------------------------------
+ Ошибка: Ваше значение 10000,что больше 100
+Метод:Void set_Number(Int32)
+Время:26.10.2021 14:40:51
+ИсточникOOP5
+Стек   at OOP5.Snarads.set_Number(Int32 value) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Class1.cs:line 247
+   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Program.cs:line 82
+
+--------------------------------------
+ Ошибка: Attempted to divide by zero.
+Метод:Void Main(System.String[])
+Время:26.10.2021 14:40:51
+ИсточникOOP5
+Стек   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Program.cs:line 102
+
+--------------------------------------
+ Ошибка: Элемент не удален может быть удален, так как его не существует.
+Текущий размер списка 2 элементов
+Вы выбрали 4.
+Метод:Boolean Delete(Int32)
+Время:26.10.2021 14:49:32
+ИсточникOOP5
+Стек   at OOP5.Gym.Delete(Int32 index) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Class1.cs:line 110
+   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Program.cs:line 33
+
+--------------------------------------
+ Ошибка: Недостаточно бюджета
+Ваш бюджет равен 9000. А цена снарядов 100000
+Вам не хватает 91000
+Метод:Void Add(OOP5.Snarads)
+Время:26.10.2021 14:49:32
+ИсточникOOP5
+Стек   at OOP5.Control.Add(Snarads obj) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Class1.cs:line 192
+   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Program.cs:line 59
+
+--------------------------------------
+ Ошибка: Ваше значение 10000,что больше 100
+Метод:Void set_Number(Int32)
+Время:26.10.2021 14:49:32
+ИсточникOOP5
+Стек   at OOP5.Snarads.set_Number(Int32 value) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Class1.cs:line 247
+   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Program.cs:line 82
+
+--------------------------------------
+ Ошибка: Attempted to divide by zero.
+Метод:Void Main(System.String[])
+Время:26.10.2021 14:49:32
+ИсточникOOP5
+Стек   at OOP5.Program.Main(String[] args) in C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\7\OOP5\OOP5\Program.cs:line 102
+
+--------------------------------------
