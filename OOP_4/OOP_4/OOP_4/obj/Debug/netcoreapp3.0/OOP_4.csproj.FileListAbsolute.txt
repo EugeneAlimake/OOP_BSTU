@@ -1,0 +1,11 @@
+C:\Users\thesi\Desktop\3 семестр\мое\c#\4\OOP_4\OOP_4\bin\Debug\netcoreapp3.0\OOP_4.exe
+C:\Users\thesi\Desktop\3 семестр\мое\c#\4\OOP_4\OOP_4\bin\Debug\netcoreapp3.0\OOP_4.deps.json
+C:\Users\thesi\Desktop\3 семестр\мое\c#\4\OOP_4\OOP_4\bin\Debug\netcoreapp3.0\OOP_4.runtimeconfig.json
+C:\Users\thesi\Desktop\3 семестр\мое\c#\4\OOP_4\OOP_4\bin\Debug\netcoreapp3.0\OOP_4.runtimeconfig.dev.json
+C:\Users\thesi\Desktop\3 семестр\мое\c#\4\OOP_4\OOP_4\bin\Debug\netcoreapp3.0\OOP_4.dll
+C:\Users\thesi\Desktop\3 семестр\мое\c#\4\OOP_4\OOP_4\bin\Debug\netcoreapp3.0\OOP_4.pdb
+C:\Users\thesi\Desktop\3 семестр\мое\c#\4\OOP_4\OOP_4\obj\Debug\netcoreapp3.0\OOP_4.csprojAssemblyReference.cache
+C:\Users\thesi\Desktop\3 семестр\мое\c#\4\OOP_4\OOP_4\obj\Debug\netcoreapp3.0\OOP_4.AssemblyInfoInputs.cache
+C:\Users\thesi\Desktop\3 семестр\мое\c#\4\OOP_4\OOP_4\obj\Debug\netcoreapp3.0\OOP_4.AssemblyInfo.cs
+C:\Users\thesi\Desktop\3 семестр\мое\c#\4\OOP_4\OOP_4\obj\Debug\netcoreapp3.0\OOP_4.dll
+C:\Users\thesi\Desktop\3 семестр\мое\c#\4\OOP_4\OOP_4\obj\Debug\netcoreapp3.0\OOP_4.pdb
