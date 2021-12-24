@@ -1,0 +1,11 @@
+C:\Users\thesi\Desktop\3 семестр\мое\c#\5\OOP5\OOP5\obj\Debug\netcoreapp3.0\OOP5.csprojAssemblyReference.cache
+C:\Users\thesi\Desktop\3 семестр\мое\c#\5\OOP5\OOP5\obj\Debug\netcoreapp3.0\OOP5.AssemblyInfoInputs.cache
+C:\Users\thesi\Desktop\3 семестр\мое\c#\5\OOP5\OOP5\obj\Debug\netcoreapp3.0\OOP5.AssemblyInfo.cs
+C:\Users\thesi\Desktop\3 семестр\мое\c#\5\OOP5\OOP5\bin\Debug\netcoreapp3.0\OOP5.exe
+C:\Users\thesi\Desktop\3 семестр\мое\c#\5\OOP5\OOP5\bin\Debug\netcoreapp3.0\OOP5.deps.json
+C:\Users\thesi\Desktop\3 семестр\мое\c#\5\OOP5\OOP5\bin\Debug\netcoreapp3.0\OOP5.runtimeconfig.json
+C:\Users\thesi\Desktop\3 семестр\мое\c#\5\OOP5\OOP5\bin\Debug\netcoreapp3.0\OOP5.runtimeconfig.dev.json
+C:\Users\thesi\Desktop\3 семестр\мое\c#\5\OOP5\OOP5\bin\Debug\netcoreapp3.0\OOP5.dll
+C:\Users\thesi\Desktop\3 семестр\мое\c#\5\OOP5\OOP5\bin\Debug\netcoreapp3.0\OOP5.pdb
+C:\Users\thesi\Desktop\3 семестр\мое\c#\5\OOP5\OOP5\obj\Debug\netcoreapp3.0\OOP5.dll
+C:\Users\thesi\Desktop\3 семестр\мое\c#\5\OOP5\OOP5\obj\Debug\netcoreapp3.0\OOP5.pdb
